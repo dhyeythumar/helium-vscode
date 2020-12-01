@@ -5,6 +5,10 @@
     Helium
 </h1>
 
+[![Version](https://vsmarketplacebadge.apphb.com/version/DhyeyThumar.helium-theme.svg)](https://marketplace.visualstudio.com/items?itemName=DhyeyThumar.helium-theme)
+[![Installs](https://vsmarketplacebadge.apphb.com/installs/DhyeyThumar.helium-theme.svg)](https://marketplace.visualstudio.com/items?itemName=DhyeyThumar.helium-theme)
+[![Downloads](https://vsmarketplacebadge.apphb.com/downloads/DhyeyThumar.helium-theme.svg)](https://marketplace.visualstudio.com/items?itemName=DhyeyThumar.helium-theme)
+
 
 ## What’s In This Document
 - [Example](#example)
