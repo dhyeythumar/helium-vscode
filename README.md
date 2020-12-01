@@ -56,3 +56,4 @@ Licensed under the [MIT License](./LICENSE).
 
 ## Acknowledgements
 1. This VS Code theme color is inspired by [**Wesbos's cobalt2-vscode**](https://github.com/wesbos/cobalt2-vscode).
+2. Description for each and every theme color attribute given in [**Theme Color Reference**](https://code.visualstudio.com/api/references/theme-color)
