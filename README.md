@@ -1,6 +1,5 @@
-<h6></h6>
 <p align="center">
-    <img alt="Helium" src="https://raw.githubusercontent.com/Dhyeythumar/helium-vscode/main/images/logo.png" width="110"/>
+    <img alt="Helium" src="https://raw.githubusercontent.com/Dhyeythumar/helium-vscode/main/images/logo.png" width="100"/>
 </p>
 <h1 align="center">
     Helium
