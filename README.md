@@ -35,12 +35,17 @@
 ```js
 {
   "workbench.colorTheme": "Helium",
-  "editor.fontFamily": "Operator Mono, Baloo Tammudu 2, Droid Sans Mono, Courier New",
+  "workbench.iconTheme": "material-icon-theme",
+  "files.autoSave": "onFocusChange",
+  "editor.fontFamily": "Operator Mono, 'Baloo Tammudu 2', 'Droid Sans Mono', Consolas, 'Courier New'",
   "editor.fontSize": 18,
   "editor.lineHeight": 28,
-  "editor.letterSpacing": 0.1,
-  "files.trimTrailingWhitespace": true,
-  "editor.fontWeight": "400",
+  "editor.letterSpacing": 0.2,
+  "editor.fontWeight": "300",
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorStyle": "line",
+  "editor.cursorWidth": 3,
 }
 ```
 
