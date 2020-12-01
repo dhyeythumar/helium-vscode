@@ -1,0 +1,43 @@
+{
+  "name": "helium-theme",
+  "version": "1.0.0",
+  "displayName": "Helium Theme",
+  "description": "VS Code theme color",
+  "publisher": "dhyeythumar",
+  "icon": "images/logo.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dhyeythumar/helium-vscode"
+  },
+  "galleryBanner": {
+    "color": "#191919",
+    "theme": "dark"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "VSCode",
+    "Themes",
+    "Theme-Color"
+  ],
+  "engines": {
+    "vscode": "^1.15.0"
+  },
+  "scripts": {
+    "bundle": "vsce package",
+    "publish": "vsce publish"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "helium",
+        "uiTheme": "vs-dark",
+        "path": "./theme/helium.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "vsce": "^1.81.1"
+  }
+}
