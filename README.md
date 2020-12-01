@@ -28,8 +28,9 @@
 2. Search for **Helium** - find the one by **Dhyey Thumar**.
 3. Click **Install**
 4. Code > Preferences > Color Theme > **Helium**
-5. Optional: Use the recommended settings below for best experience
 
+Now the theme color is set 😀.
+> Optional: For best experience use the recommended settings given below.
 
 ## Recommended Settings
 ```js
@@ -52,9 +53,9 @@
 
 ## Contributing
 To work on this theme:
-1. Clone this repo and open in VS Code
-2. Open run `Activity Bar → Run`
-3. Click `Launch Extension`. This will open up another VS Code Editor
+1. Clone this repo and open in VS Code.
+2. Open run `Activity Bar → Run`.
+3. Click `Launch Extension`. This will open up another VS Code Editor.
 4. Make changes to `helium.json`. You will see changes reflected in the other editor that was opened in step 3.
 
 
@@ -64,4 +65,4 @@ Licensed under the [MIT License](./LICENSE).
 
 ## Acknowledgements
 1. This VS Code theme color is inspired by [**Wesbos's cobalt2-vscode**](https://github.com/wesbos/cobalt2-vscode).
-2. Description for each and every theme color attribute given in [**Theme Color Reference**](https://code.visualstudio.com/api/references/theme-color)
+2. Description for each and every theme color attribute given in [**Theme Color Reference**](https://code.visualstudio.com/api/references/theme-color).
