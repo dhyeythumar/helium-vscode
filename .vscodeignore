@@ -2,4 +2,4 @@
 .gitignore
 .gitattributes
 .editorconfig
-.txt
+*.txt
