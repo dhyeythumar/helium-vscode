@@ -5,9 +5,9 @@
     Helium
 </h1> -->
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/dhyeythumar.helium-theme.svg)](https://marketplace.visualstudio.com/items?itemName=dhyeythumar.helium-theme)
-[![Installs](https://vsmarketplacebadge.apphb.com/installs/dhyeythumar.helium-theme.svg)](https://marketplace.visualstudio.com/items?itemName=dhyeythumar.helium-theme)
-[![Downloads](https://vsmarketplacebadge.apphb.com/downloads/dhyeythumar.helium-theme.svg)](https://marketplace.visualstudio.com/items?itemName=dhyeythumar.helium-theme)
+[![Version](https://vsmarketplacebadge.apphb.com/version/dhyeythumar.helium-theme.svg?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=dhyeythumar.helium-theme)
+[![Installs](https://vsmarketplacebadge.apphb.com/installs/dhyeythumar.helium-theme.svg?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=dhyeythumar.helium-theme)
+[![Downloads](https://vsmarketplacebadge.apphb.com/downloads/dhyeythumar.helium-theme.svg?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=dhyeythumar.helium-theme)
 
 
 ## What’s In This Document
