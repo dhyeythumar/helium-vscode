@@ -1,9 +1,9 @@
 <p align="center">
     <img alt="Helium" src="https://raw.githubusercontent.com/Dhyeythumar/helium-vscode/main/images/logo.png" width="100"/>
 </p>
-<h1 align="center">
+<!--- <h1 align="center">
     Helium
-</h1>
+</h1> -->
 
 [![Version](https://vsmarketplacebadge.apphb.com/version/dhyeythumar.helium-theme.svg)](https://marketplace.visualstudio.com/items?itemName=dhyeythumar.helium-theme)
 [![Installs](https://vsmarketplacebadge.apphb.com/installs/dhyeythumar.helium-theme.svg)](https://marketplace.visualstudio.com/items?itemName=dhyeythumar.helium-theme)
