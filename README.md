@@ -5,9 +5,17 @@
     Helium
 </h1> -->
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/dhyeythumar.helium-theme.svg?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=dhyeythumar.helium-theme)
+<p align="center">
+  <a href="https://marketplace.visualstudio.com/items?itemName=dhyeythumar.helium-theme">
+      <img alt="Version" src="https://img.shields.io/visual-studio-marketplace/v/dhyeythumar.helium-theme?color=success&label=visual%20studio%20marketplace&style=for-the-badge" />
+  </a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=dhyeythumar.helium-theme">
+      <img alt="Installs" src="https://img.shields.io/visual-studio-marketplace/i/dhyeythumar.helium-theme?color=success&style=for-the-badge" />
+  </a>
+</p>
+<!--- [![Version](https://vsmarketplacebadge.apphb.com/version/dhyeythumar.helium-theme.svg?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=dhyeythumar.helium-theme)
 [![Installs](https://vsmarketplacebadge.apphb.com/installs/dhyeythumar.helium-theme.svg?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=dhyeythumar.helium-theme)
-[![Downloads](https://vsmarketplacebadge.apphb.com/downloads/dhyeythumar.helium-theme.svg?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=dhyeythumar.helium-theme)
+[![Downloads](https://vsmarketplacebadge.apphb.com/downloads/dhyeythumar.helium-theme.svg?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=dhyeythumar.helium-theme) -->
 
 
 ## What’s In This Document
@@ -33,20 +41,19 @@ Now the theme color is set 😀.
 > Optional: For best experience use the recommended settings given below.
 
 ## Recommended Settings
-```js
+```json
 {
-  "workbench.colorTheme": "Helium",
-  "workbench.iconTheme": "material-icon-theme",
-  "files.autoSave": "onFocusChange",
-  "editor.fontFamily": "Operator Mono, 'Baloo Tammudu 2', 'Droid Sans Mono', Consolas, 'Courier New'",
-  "editor.fontSize": 18,
-  "editor.lineHeight": 28,
-  "editor.letterSpacing": 0.2,
-  "editor.fontWeight": "300",
-  "editor.cursorSmoothCaretAnimation": true,
-  "editor.cursorBlinking": "smooth",
-  "editor.cursorStyle": "line",
-  "editor.cursorWidth": 3,
+    "workbench.colorTheme": "Helium",
+    "files.autoSave": "onFocusChange",
+    "editor.fontFamily": "'Baloo Tammudu 2', 'Droid Sans Mono', Consolas, 'Courier New'",
+    "editor.fontSize": 18,
+    "editor.lineHeight": 28,
+    "editor.letterSpacing": 0.2,
+    "editor.fontWeight": "300",
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.cursorBlinking": "smooth",
+    "editor.cursorStyle": "line",
+    "editor.cursorWidth": 2,
 }
 ```
 
