@@ -57,24 +57,25 @@
         // main text colour
         "editor.foreground": "#fff",
         // current found item
-        "editor.findMatchBackground": "#5e6253",
-        // other Found Items in the document
-        "editor.findMatchHighlightBackground": "#5e62537b",
-        "editor.findRangeHighlightBackground": "#d0d3ec", // => ??
+        "editor.findMatchBackground": "#606060",
+        // bg of current found item
+        "editor.rangeHighlightBackground": "#424242",
+        // other found items in the document
+        "editor.findMatchHighlightBackground": "#3e3e3e",
+        // bg for 'Find in Selection'
+        "editor.findRangeHighlightBackground": "#424242",
         // when you hover over something and a popup shows, this highlights that thing
-        "editor.hoverHighlightBackground": "#5e6253d2",
-        // when you have something selected, but have lost focus on the editor
-        "editor.inactiveSelectionBackground": "#5e6253",
+        "editor.hoverHighlightBackground": "#424242",
         // current line styles
-        "editor.lineHighlightBackground": "#494c406b",
+        "editor.lineHighlightBackground": "#424242",
         "editor.lineHighlightBorder": "#494c4000",
-        "editor.rangeHighlightBackground": "#494c40cb",
-        // selected Text colours
-        // This is the standard Select colour
-        "editor.selectionBackground": "#5e6253",
-        // This is the colour of the other matching elements
-        "editor.selectionHighlightBackground": "#5e62539e",
-        // Word Highlights! This happens when you move your cursor inside a variable
+        // standard text select color
+        "editor.selectionBackground": "#585858",
+        // text selected and lost focus on the editor
+        "editor.inactiveSelectionBackground": "#585858c6",
+        // color of the other matching elements
+        "editor.selectionHighlightBackground": "#424242",
+        // Word Highlights! This happens when you move your cursor inside a variable => ??
         // Strong is the one where your cursor currently is
         "editor.wordHighlightStrongBackground": "#ffffff21",
         "editor.wordHighlightBackground": "#ffffff21",
@@ -82,7 +83,7 @@
         "editorBracketMatch.border": "#ffffff82",
         "editorCodeLens.foreground": "#aaa",
         "editorCursor.foreground": "#fff",
-        "editorError.border": "#5761d5db",
+        "editorError.border": "#A22929",
         "editorError.foreground": "#A22929",
         // gutter
         "editorGutter.background": "#1f201ba0",
@@ -100,14 +101,15 @@
         // editorHoverWidget
         "editorHoverWidget.background": "#191919",
         "editorHoverWidget.border": "#191919",
-        "editorIndentGuide.background": "#5761d582",
+        "editorIndentGuide.background": "#79797982",
+        "editorIndentGuide.activeBackground": "#5761d5e0",
         "editorLineNumber.foreground": "#aaa",
         "editorLink.activeForeground": "#aaa",
         // editorMarkerNavigation
         "editorMarkerNavigation.background": "#3B536433",
         "editorMarkerNavigationError.background": "#A22929",
         "editorMarkerNavigationWarning.background": "#ffc600",
-        // ruler ??
+        // ruler
         "editorOverviewRuler.border": "#0d3a58",
         "editorOverviewRuler.commonContentForeground": "#ffc60055",
         "editorOverviewRuler.currentContentForeground": "#ee3a4355",
@@ -131,6 +133,12 @@
         "extensionButton.prominentHoverBackground": "#6a74e9",
         "focusBorder": "#c6c6c6a7",
         "foreground": "#aaa",
+        // git status colors in File Explorer
+        "gitDecoration.modifiedResourceForeground": "#ffc600",
+        "gitDecoration.deletedResourceForeground": "#ff628c",
+        "gitDecoration.untrackedResourceForeground": "#3ad900",
+        "gitDecoration.ignoredResourceForeground": "#808080",
+        "gitDecoration.conflictingResourceForeground": "#FF7200",
         // input
         "input.background": "#343433",
         "input.border": "#343433",
@@ -157,11 +165,6 @@
         "list.hoverForeground": "#ebebeb",
         "list.inactiveSelectionBackground": "#343433",
         "list.inactiveSelectionForeground": "#ffffff",
-        //titlebar
-        "titleBar.activeBackground": "#191919",
-        "titleBar.activeForeground": "#aaa",
-        "titleBar.inactiveBackground": "#191919",
-        "titleBar.inactiveForeground": "#aaa",
         // menu
         "menu.selectionForeground": "#fff",
         "menubar.selectionBackground": "#343433",
@@ -188,8 +191,8 @@
         // panel
         "panel.background": "#191919",
         "panel.border": "#191919",
-        "panelTitle.activeBorder": "#ffc600",
-        "panelTitle.activeForeground": "#ffc600",
+        "panelTitle.activeBorder": "#5b68ff",
+        "panelTitle.activeForeground": "#5b68ff",
         "panelTitle.inactiveForeground": "#aaa",
         // peekView
         "peekView.border": "#aaaaaad5",
@@ -216,7 +219,7 @@
         "scrollbarSlider.background": "#494c4080",
         "scrollbarSlider.hoverBackground": "#494c40cc",
         // selection
-        "selection.background": "#afafaf5f",
+        "selection.background": "#5761d5ba",
         // sidebar
         "sideBar.background": "#191919",
         "sideBar.border": "#21221b",
@@ -240,6 +243,28 @@
         "statusBarItem.hoverBackground": "#191919",
         "statusBarItem.prominentBackground": "#5761d5",
         "statusBarItem.prominentHoverBackground": "#5761d5",
+        // settings
+        "settings.headerForeground": "#dddddd",
+        "settings.modifiedItemIndicator": "#5761d5",
+        "settings.dropdownBackground": "#191919ee",
+        "settings.dropdownForeground": "#fff",
+        "settings.dropdownBorder": "#191919ee",
+        "settings.dropdownListBorder": "#aaa",
+        "settings.checkboxBackground": "#191919ee",
+        "settings.checkboxForeground": "#fff",
+        "settings.checkboxBorder": "#191919ee",
+        "settings.textInputBackground": "#191919ee",
+        "settings.textInputForeground": "#fff",
+        "settings.textInputBorder": "#191919ee",
+        "settings.numberInputBackground": "#191919ee",
+        "settings.numberInputForeground": "#fff",
+        "settings.numberInputBorder": "#191919ee",
+        "settings.focusedRowBackground": "#424242",
+        //titlebar
+        "titleBar.activeBackground": "#191919",
+        "titleBar.activeForeground": "#aaa",
+        "titleBar.inactiveBackground": "#191919",
+        "titleBar.inactiveForeground": "#aaa",
         // tab
         "tab.activeBackground": "#272822",
         "tab.activeForeground": "#fff",
@@ -271,12 +296,6 @@
         "terminal.foreground": "#fff",
         "terminalCursor.background": "#fff",
         "terminalCursor.foreground": "#fff",
-        // git status colors in File Explorer
-        "gitDecoration.modifiedResourceForeground": "#ffc600",
-        "gitDecoration.deletedResourceForeground": "#ff628c",
-        "gitDecoration.untrackedResourceForeground": "#3ad900",
-        "gitDecoration.ignoredResourceForeground": "#808080",
-        "gitDecoration.conflictingResourceForeground": "#FF7200",
         // textBlockQuote
         "textBlockQuote.background": "#193549",
         "textBlockQuote.border": "#0088ff",
@@ -290,9 +309,9 @@
         "welcomePage.buttonHoverBackground": "#0d3a58",
         "widget.shadow": "#00000026",
         //minimap
-        "minimap.findMatchHighlight": "#5e6253",
-        "minimap.selectionHighlight": "#5e6253a5",
-        "minimap.errorHighlight": "#ff628c",
+        "minimap.findMatchHighlight": "#71d4ff",
+        "minimap.selectionHighlight": "#7b7b7b80",
+        "minimap.errorHighlight": "#ff4e7d",
         "minimap.warningHighlight": "#ffc600",
         // "checkbox.background": "#36382e",
         // "checkbox.border": "#36382e",
@@ -729,7 +748,7 @@
                 "foreground": "#9effff"
             }
         },
-            {
+        {
             "name": "[MARKDOWN] - Inline Code",
             "scope": [
                 "fenced_code.block.language",
