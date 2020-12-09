@@ -16,7 +16,7 @@
             "foreground": "#FF68B8",
             "italic": true
         },
-        // This colours both object definiton properties, as well as references. If the property does not exist, it will be white.
+        // This colors both object definiton properties, as well as references. If the property does not exist, it will be white.
         "property": "#9effff",
     },
     "colors": {
