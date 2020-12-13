@@ -10,13 +10,13 @@
       <img alt="Version" src="https://img.shields.io/visual-studio-marketplace/v/dhyeythumar.helium-theme?color=%23007ACC&label=visual%20studio%20marketplace&style=for-the-badge" />
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=dhyeythumar.helium-theme">
-      <img alt="Ratings" src="https://img.shields.io/visual-studio-marketplace/r/dhyeyThumar.helium-theme?color=%23007ACC&logo=Visual%20Studio%20Code&style=for-the-badge" />
+      <img alt="Ratings" src="https://img.shields.io/visual-studio-marketplace/r/dhyeyThumar.helium-theme?color=%23007ACC&style=for-the-badge" />
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=dhyeythumar.helium-theme">
-      <img alt="Installs" src="https://img.shields.io/visual-studio-marketplace/i/dhyeythumar.helium-theme?color=%23007ACC&logo=Visual%20Studio%20Code&style=for-the-badge" />
+      <img alt="Installs" src="https://img.shields.io/visual-studio-marketplace/i/dhyeythumar.helium-theme?color=%23007ACC&style=for-the-badge" />
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=dhyeythumar.helium-theme">
-      <img alt="Downloads" src="https://img.shields.io/visual-studio-marketplace/d/dhyeythumar.helium-theme?color=%23007ACC&logo=Visual%20Studio%20Code&style=for-the-badge" />
+      <img alt="Downloads" src="https://img.shields.io/visual-studio-marketplace/d/dhyeythumar.helium-theme?color=%23007ACC&style=for-the-badge" />
   </a>
 </p>
 
