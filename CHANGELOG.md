@@ -1,3 +1,18 @@
+## 1.0.3 Changes made improve the contrast
+
+- Improvements made to the following color attributes:
+  
+  - `debugExceptionWidget.border`
+  - `editorSuggestWidget.background`
+  - `editorSuggestWidget.border`
+  - `editorSuggestWidget.foreground`
+  - `editorSuggestWidget.highlightForeground`
+  - `editorSuggestWidget.selectedBackground`
+  - `list.hoverForeground`
+  - `peekView.border`
+  - `peekViewTitleDescription.foreground`
+  - `editorGutter.modifiedBackground`
+
 ## 1.0.2 Minor Changes
 
 - Improvements made to the following color attributes:
