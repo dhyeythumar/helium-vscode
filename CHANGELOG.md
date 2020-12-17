@@ -1,4 +1,4 @@
-## 1.0.3 Changes made improve the contrast
+## 1.0.3 Changes made to improve the contrast
 
 - Improvements made to the following color attributes:
   
