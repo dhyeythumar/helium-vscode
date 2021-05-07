@@ -1,3 +1,7 @@
+## 1.0.4 Updated the dependencies
+
+-   Underscore - from `1.8.3` to `1.13.1` due to the critical security update.
+
 ## 1.0.3 Changes made to improve the contrast
 
 -   Improvements made to the following color attributes:
